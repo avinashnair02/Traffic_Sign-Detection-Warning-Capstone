@@ -7,5 +7,7 @@ This is a demo video of the Project
 Objective - To alert and assist the driver of the vehicle for intended nature of the road ahead and identification of traffic sign boards on the road 
 
 
-NOTE: This is not an open source Project if you want to know more about the projects do contact with the email provided below
+NOTE: This is not an open source Project if you want to know more about this project do contact with the email provided below or ping me on Linkdin/Twitter
+
+Contact: avinashnair02@gmail.com
 
